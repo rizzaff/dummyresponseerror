@@ -1,0 +1,20 @@
+{
+  "digilend": {
+    "code": 422,
+    "errors": [
+      {
+        "field": "field1",
+        "messages": [
+          "token is required for recipient"
+        ]
+      },
+      {
+        "field": "field2",
+        "messages": [
+          "email format is incorrect"
+        ]
+      }
+    ],
+    "messages": "Error"
+  }
+}
